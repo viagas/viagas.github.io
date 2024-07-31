@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://viagas.github.io/sitemap.html.gz
+Sitemap: https://viagas.github.io/app/sitemap.html.gz
+Sitemap: https://viagas.github.io/assets/sitemap.html.gz
+Sitemap: https://viagas.github.io/css/sitemap.html.gz
+Sitemap: https://viagas.github.io/includes/sitemap.html.gz
+Sitemap: https://viagas.github.io/item/sitemap.html.gz
+Sitemap: https://viagas.github.io/src/sitemap.html.gz
